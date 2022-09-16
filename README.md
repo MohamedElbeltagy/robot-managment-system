@@ -1,2 +1,6 @@
 # robot-managment-system
-## The purpose of this project is to create a simple Spring Boot project for robots managment system.
+This is a simple UI robots managment system using Spring Boot so user can add/update/delete robots' name and location.
+
+```
+test
+```
